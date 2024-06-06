@@ -1,0 +1,2 @@
+# Robot_NBIoT
+ESP32 NHẬN DỮ LIỆU TỪ STM32 VÀ ĐẨY DỮ LIỆU LÊN HiveMQ THÔNG QUA SIM7028 (NB-IoT)
